@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7151e93e-0c6b-4995-8cac-942c333c818b" name="Default Changelist" comment="" />
+    <list default="true" id="7151e93e-0c6b-4995-8cac-942c333c818b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,19 +35,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hABQOlAZO3yZ8WwZ2mCzRGnc65" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Son">
+  <component name="RunManager" selected="Application.LogicProcess">
     <configuration name="Father" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="constructorclass.Father" />
       <module name="myjavaproject" />
@@ -40,9 +69,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindObject" />
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabase.HelloWorld" />
       <module name="myjavaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicProcess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabase.LogicProcess" />
+      <module name="myjavaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberSuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabase.NumberSuan" />
+      <module name="myjavaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -62,9 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LogicProcess" />
+        <item itemvalue="Application.NumberSuan" />
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Son" />
         <item itemvalue="Application.Father" />
-        <item itemvalue="Application.FindObject" />
       </list>
     </recent_temporary>
   </component>
@@ -81,28 +144,44 @@
       <workItem from="1599444004855" duration="557000" />
       <workItem from="1599475414390" duration="3236000" />
       <workItem from="1599560755010" duration="792000" />
+      <workItem from="1604326625220" duration="3922000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1176" height="259" key="GridCell.Tab.0.bottom" timestamp="1599480025156">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="850" height="156" key="GridCell.Tab.0.bottom" timestamp="1604330559196">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="850" height="156" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604330559196" />
     <state width="1176" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599480025156" />
-    <state width="1176" height="259" key="GridCell.Tab.0.center" timestamp="1599480025155">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="850" height="156" key="GridCell.Tab.0.center" timestamp="1604330559196">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="850" height="156" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604330559196" />
     <state width="1176" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599480025155" />
-    <state width="1176" height="259" key="GridCell.Tab.0.left" timestamp="1599480025155">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="850" height="156" key="GridCell.Tab.0.left" timestamp="1604330559196">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="850" height="156" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604330559196" />
     <state width="1176" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599480025155" />
-    <state width="1176" height="259" key="GridCell.Tab.0.right" timestamp="1599480025156">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="850" height="156" key="GridCell.Tab.0.right" timestamp="1604330559196">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="850" height="156" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604330559196" />
     <state width="1176" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599480025156" />
     <state x="780" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1599560753418">
       <screen x="0" y="0" width="1920" height="1040" />
